@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lostminer", "lostminer.csproj", "{ED07986D-C77A-4FD3-981F-1713DA0003EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBHelper", "DBHelper\DBHelper.csproj", "{D9E29B13-2F9B-48FC-A0E7-17A8286BDB26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportData", "ImportData\ImportData.csproj", "{D9D6EFD6-8F20-4FFF-92BC-F244F5CD042D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostMinerLib", "LostMinerLib\LostMinerLib.csproj", "{395B9AD2-9C33-44C1-857A-0E7DDB8E1A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED07986D-C77A-4FD3-981F-1713DA0003EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED07986D-C77A-4FD3-981F-1713DA0003EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED07986D-C77A-4FD3-981F-1713DA0003EF}.Debug|x86.ActiveCfg = Debug|x86
+		{ED07986D-C77A-4FD3-981F-1713DA0003EF}.Debug|x86.Build.0 = Debug|x86
+		{ED07986D-C77A-4FD3-981F-1713DA0003EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED07986D-C77A-4FD3-981F-1713DA0003EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED07986D-C77A-4FD3-981F-1713DA0003EF}.Release|x86.ActiveCfg = Release|x86
+		{ED07986D-C77A-4FD3-981F-1713DA0003EF}.Release|x86.Build.0 = Release|x86
+		{D9E29B13-2F9B-48FC-A0E7-17A8286BDB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E29B13-2F9B-48FC-A0E7-17A8286BDB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E29B13-2F9B-48FC-A0E7-17A8286BDB26}.Debug|x86.ActiveCfg = Debug|x86
+		{D9E29B13-2F9B-48FC-A0E7-17A8286BDB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E29B13-2F9B-48FC-A0E7-17A8286BDB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E29B13-2F9B-48FC-A0E7-17A8286BDB26}.Release|x86.ActiveCfg = Release|Any CPU
+		{D9D6EFD6-8F20-4FFF-92BC-F244F5CD042D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D6EFD6-8F20-4FFF-92BC-F244F5CD042D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D6EFD6-8F20-4FFF-92BC-F244F5CD042D}.Debug|x86.ActiveCfg = Debug|x86
+		{D9D6EFD6-8F20-4FFF-92BC-F244F5CD042D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D6EFD6-8F20-4FFF-92BC-F244F5CD042D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D6EFD6-8F20-4FFF-92BC-F244F5CD042D}.Release|x86.ActiveCfg = Release|Any CPU
+		{395B9AD2-9C33-44C1-857A-0E7DDB8E1A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395B9AD2-9C33-44C1-857A-0E7DDB8E1A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395B9AD2-9C33-44C1-857A-0E7DDB8E1A7B}.Debug|x86.ActiveCfg = Debug|x86
+		{395B9AD2-9C33-44C1-857A-0E7DDB8E1A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395B9AD2-9C33-44C1-857A-0E7DDB8E1A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395B9AD2-9C33-44C1-857A-0E7DDB8E1A7B}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
