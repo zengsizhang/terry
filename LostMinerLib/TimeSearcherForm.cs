@@ -784,7 +784,7 @@ namespace TimeSearcher
                     this.btn_save_sx.Enabled = true;
                     if (is_rule)
                     {
-                        get_rule(time_al);
+                       // get_rule(time_al);
 
                     }
                     else
